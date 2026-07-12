@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from 'react'
 import { ScatterChart, Scatter, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Line, BarChart, Bar } from 'recharts'
 
-const API_BASE = 'http://localhost:8000'
+const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:8000'
 
 function App() {
   const [activeTab, setActiveTab] = useState('dashboard') // 'dashboard' or 'insights'
