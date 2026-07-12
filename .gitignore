@@ -1,0 +1,30 @@
+﻿# Node
+node_modules/
+client/node_modules/
+client/dist/
+client/.vite/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+server/__pycache__/
+server/**/__pycache__/
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+.env.local
+*.env
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
