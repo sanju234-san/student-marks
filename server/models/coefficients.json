@@ -1,0 +1,22 @@
+{
+  "study_hours": 21.211023431244733,
+  "attendance_percentage": 19.773288811339945,
+  "previous_exam_score": 39.20931308346705,
+  "sleep_hours": 10.021063048914195,
+  "extracurricular_hours": -9.384614344688917,
+  "study_hours^2": -2.8643941172242084,
+  "study_hours attendance_percentage": -7.310381019275474,
+  "study_hours previous_exam_score": -8.146598447182631,
+  "study_hours sleep_hours": -4.069895383351837,
+  "study_hours extracurricular_hours": 1.31652979079029,
+  "attendance_percentage^2": -4.5068570669655195,
+  "attendance_percentage previous_exam_score": -15.487505324632675,
+  "attendance_percentage sleep_hours": -5.085314914544055,
+  "attendance_percentage extracurricular_hours": 3.5836803275539797,
+  "previous_exam_score^2": -14.716726535608625,
+  "previous_exam_score sleep_hours": -5.831587698662875,
+  "previous_exam_score extracurricular_hours": 3.6891616140294765,
+  "sleep_hours^2": 0.5170989021941869,
+  "sleep_hours extracurricular_hours": 1.3111845007376106,
+  "extracurricular_hours^2": -0.12851898330228553
+}
